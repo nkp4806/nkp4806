@@ -7,9 +7,9 @@
 </p>
 <h2 align="center">// About Me//</h2>
 
-I like working close to the machine.
-My interests sit around Linux, systems, networking, cybersecurity, and infrastructure.
-I learn by building things, breaking them, tracing the failure, and rebuilding them properly.
+I like working close to the machine.<br>
+My interests sit around Linux, systems, networking, cybersecurity, and infrastructure.<br>
+I learn by building things, breaking them, tracing failures, and rebuilding them properly.
 
 <h2 align="center">// Domain Matrix //</h2>
 
